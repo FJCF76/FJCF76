@@ -1,4 +1,4 @@
-# FJ Covecino
+# Fernando Covecino
 
 More than 25 years leading technology across Europe and Latin America. Today I lead
 Customer Success for EMEA at Grupo Espiral MS. Before that I was a Partner at
