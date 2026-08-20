@@ -2,7 +2,7 @@
 
 **Technology reaches most boards as a briefing. I try to build it first.**
 
-More than 25 years leading technology across Europe and Latin America. Today I lead Customer Success for EMEA at Grupo Espiral MS. Before that I was a Partner at Deloitte, Country Manager of Inetum in Peru with full P&L responsibility, and spent a long run at Microsoft.
+More than 25 years leading technology across Europe and Latin America. Today I lead Customer Success for EMEA at Grupo Espiral MS. Before that I was a Partner at Deloitte, Country Manager of Inetum in Peru, and spent a long run at Microsoft.
 
 This account is where that habit lives. Building is slower than reading a deck and much harder to fool.
 
