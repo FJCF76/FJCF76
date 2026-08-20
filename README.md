@@ -1,22 +1,15 @@
 # Fernando Covecino
 
-More than 25 years leading technology across Europe and Latin America. Today I lead
-Customer Success for EMEA at Grupo Espiral MS. Before that I was a Partner at
-Deloitte, Country Manager of Inetum in Peru with full P&L responsibility, and spent
-a long run at Microsoft. Certified in Cybersecurity by ISC2.
+**Technology reaches most boards as a briefing. I try to build it first.**
 
-This account is the part of that work I still do with my own hands.
+More than 25 years leading technology across Europe and Latin America. Today I lead Customer Success for EMEA at Grupo Espiral MS. Before that I was a Partner at Deloitte, Country Manager of Inetum in Peru with full P&L responsibility, and spent a long run at Microsoft.
 
-Technology reaches most executives through briefings and vendor decks. I keep my own
-read by building, which is slower and harder to fool. When a board or an executive
-team has to approve an AI or a security decision it cannot easily verify, someone in
-the room should have tried the underlying tools.
+This account is where that habit lives. Building is slower than reading a deck and much harder to fool.
 
-What is public here ranges from exploratory work on AI and digital operations to
-Webfiable, a site health and security monitoring plugin that has users and a
-subscription behind it. The experiments are labelled as experiments.
+> When a board or an executive team has to approve an AI or a security decision it cannot easily verify, someone in the room should have tried the underlying tools.
 
-I write about the governance side on LinkedIn: what boards should be asking about AI
-and cyber risk, and where accountability actually sits.
+Some of what is public here is exploratory and says so. Some of it runs with real users.
+
+I write about the governance side on LinkedIn: what boards should be asking about AI and cyber risk, and where accountability actually sits.
 
 [linkedin.com/in/fcovecino](https://www.linkedin.com/in/fcovecino)
