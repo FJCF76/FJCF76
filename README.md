@@ -8,7 +8,7 @@ This account is where that habit lives. Building is slower than reading a deck a
 
 > When a board or an executive team has to approve an AI or a security decision it cannot easily verify, someone in the room should have tried the underlying tools.
 
-Some of what is public here is exploratory and says so. Some of it runs with real users.
+The public repositories here are independent experiments and working MVPs. The AI systems I supervise in my professional role operate in production but are not open source.
 
 I write about the governance side on LinkedIn: what boards should be asking about AI and cyber risk, and where accountability actually sits.
 
